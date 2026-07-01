@@ -1,0 +1,10 @@
+﻿{
+    "generated_at":  "2026-06-22T21:08:57",
+    "observations":  108,
+    "gdp_source_updated":  "2026-06-11T23:00:00+0200",
+    "unemployment_source_updated":  "2026-06-11T23:00:00+0200",
+    "inflation_source_updated":  "2026-02-06T23:00:00+0100",
+    "index_definition":  "Equal-weight mean of pooled z-scores for UC, transparency, key enablers, and rule of law; min-max rescaled to 0-100.",
+    "efficiency_definition":  "Mean of pooled z-scores for user centricity and key enablers.",
+    "legitimacy_definition":  "Mean of pooled z-scores for transparency and rule of law."
+}

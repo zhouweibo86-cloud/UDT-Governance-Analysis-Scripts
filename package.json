@@ -1,0 +1,13 @@
+{
+  "name": "udt-governance-readiness-eu27-replication-package",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Replication materials for Urban Digital Twin Governance Readiness and Institutional Trust in the European Union.",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}
